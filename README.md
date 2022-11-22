@@ -3,7 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Orel</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orelalon&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=orelalon&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
 ## 💫 About Me :
 
@@ -23,7 +23,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -36,9 +35,9 @@
 
 ## 📟 GitHub Stats
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=orelalon&show_icons=true&theme=radical" />
-<img  align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orelalon&layout=compact" />
+<img  align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orelalon&layout=compact&text_color=fff&bg_color=ab0068&title_color=fff" />
 <!--   -->
 
-
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&text_color=fff&bg_color=258&title_color=fff -->
 
 
