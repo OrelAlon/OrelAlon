@@ -3,6 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Orel</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=orelalon&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
 ## 💫 About Me :
 
@@ -25,12 +26,18 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orel-alon-090689184/)
+
+
+## 📟 GitHub Stats
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=orelalon&show_icons=true&theme=radical" />
+<img  align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orelalon&layout=compact" />
+<!--   -->
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orelalon&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orelalon&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
