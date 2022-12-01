@@ -8,7 +8,7 @@
 ## 💫 About Me :
 
 
-- 🔭 I’m currently learning SystemVerilog
+- 🔭 I’m currently learning TypeScript...
 - 👯 I'm always happy to contribute to open source
 - 😄 I’m looking for my first job
 - 💬 Ask me about anything...
