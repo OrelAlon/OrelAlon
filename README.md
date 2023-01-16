@@ -36,9 +36,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://orel-alon-portfolio.netlify.app/)
 
 
-## 📟 GitHub Stats
+<!-- ## 📟 GitHub Stats
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=orelalon&show_icons=true&theme=radical" />
-<img  align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orelalon&layout=compact&text_color=fff&bg_color=ab0068&title_color=fff" />
+<img  align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orelalon&layout=compact&text_color=fff&bg_color=ab0068&title_color=fff" /> -->
 <!--   -->
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&text_color=fff&bg_color=258&title_color=fff -->
