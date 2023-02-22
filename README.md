@@ -8,10 +8,10 @@
 ## 💫 About Me :
 
 
-- 🚀 I'm a Full Stack Developer
-- 
-- 📚 Specializiing mostly in JS, but also write other languages.
-- 
+- 🚀  I'm a Web Developer With focus on the MERN-STACK
+
+- 📚  Specializiing mostly in JS, but also write other languages.
+
 - 👯 Always happy to contribute to open source
 
 ## 💻 Tech Stack
