@@ -8,6 +8,10 @@
 ## 💫 About Me :
 
 
+- 🚀 I'm a Full Stack Developer
+- 
+- 📚 Specializiing mostly in JS, but also write other languages.
+- 
 - 👯 Always happy to contribute to open source
 
 ## 💻 Tech Stack
